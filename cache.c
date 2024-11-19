@@ -1,6 +1,11 @@
-//
-// Created by stefan on 31.10.24.
-//
+/**
+* @file cache.h
+ * @author Stefan Kleinschmiodt
+ * @date 13. Nov 2024
+ * @brief Contains the implementations of the cache related functions for cscript.
+ *
+ * Provides functionality to manage the cache..
+ */
 
 #include "cache.h"
 #include <dirent.h>

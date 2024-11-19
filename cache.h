@@ -1,8 +1,8 @@
 /**
-* @file script_file.h
+* @file cache.h
  * @author Stefan Kleinschmiodt
  * @date 13. Nov 2024
- * @brief Contains the cache related function for cscript.
+ * @brief Contains the cache related functions for cscript.
  *
  * Provides functionality to manage the cache..
  */
