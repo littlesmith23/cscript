@@ -57,7 +57,7 @@ I provided a simple CMakeLists.txt file as well as a makefile.
 4. Call make
 5. Call make install with root access
 
-After the installation the executable will be install to /usr/local/bin by default.
+After the installation the executable will be installed to /usr/local/bin by default.
 
 License
 =======
