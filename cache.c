@@ -1,5 +1,5 @@
 /**
-* @file cache.h
+* @file cache.c
  * @author Stefan Kleinschmiodt
  * @date 13. Nov 2024
  * @brief Contains the implementations of the cache related functions for cscript.
