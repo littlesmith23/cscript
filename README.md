@@ -58,3 +58,7 @@ I provided a simple CMakeLists.txt file as well as a makefile.
 5. Call make install with root access
 
 After the installation the executable will be install to /usr/local/bin by default.
+
+License
+=======
+The tool is licensed under GPL v2.0, see the file LICENSE for the full license.
