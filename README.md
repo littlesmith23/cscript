@@ -1,3 +1,10 @@
+
+> [!CAUTION]
+> This project has moved!
+> 
+> New Location: https://codeberg.org/littlesmith/cscript
+
+
 About cscript
 =============
 cscript is a simple tool that enables the user to run c source code like a script file. Just add a proper shebang line, usually #!/usr/local/script as the first line of the c file.
